@@ -1,6 +1,6 @@
 {
   "name": "express-edge",
-  "version": "3.0.0",
+  "version": "3.0.1",
   "description": "Use Edge templating engine with Express",
   "main": "dist/index.js",
   "scripts": {
@@ -51,6 +51,6 @@
     "supertest": "^6.1.6"
   },
   "dependencies": {
-    "edge.js": "^5.3.2"
+    "edge.js": "^5.3.3"
   }
 }
