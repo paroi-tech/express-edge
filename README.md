@@ -1,8 +1,8 @@
-# express-edge
+# @paroi/express-edge
 
 > Use Edge templating engine with Express
 
-This is a fork of [express-edge](https://github.com/ecrmnn/express-edge) with pull request changes of [riccycastro](https://github.com/ecrmnn/express-edge/pull/7). In addition, we upgrade [edge.js](https://github.com/poppinss/edge#readme) package to version 5.3.3
+This is a fork of [express-edge](https://github.com/ecrmnn/express-edge) with pull request changes of [riccycastro](https://github.com/ecrmnn/express-edge/pull/7). In addition, we upgrade [edge.js](https://github.com/poppinss/edge#readme) package to version 5.3.3.
 
 [![travis](https://img.shields.io/travis/ecrmnn/express-edge/master.svg?style=flat-square)](https://travis-ci.org/ecrmnn/express-edge/builds)
 [![npm version](https://img.shields.io/npm/v/express-edge.svg?style=flat-square)](http://badge.fury.io/js/express-edge)

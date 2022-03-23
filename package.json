@@ -1,7 +1,7 @@
 {
-  "name": "express-edge",
-  "version": "3.0.1",
-  "description": "Use Edge templating engine with Express",
+  "name": "@paroi/express-edge",
+  "version": "1.0.0",
+  "description": "Use Edge templating engine with Express. But up-to-date.",
   "main": "dist/index.js",
   "scripts": {
     "pretest": "rm -rf dist && npm run transpile",
