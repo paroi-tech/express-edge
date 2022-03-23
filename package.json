@@ -1,6 +1,6 @@
 {
   "name": "@paroi/express-edge",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Use Edge templating engine with Express. But up-to-date.",
   "main": "dist/index.js",
   "scripts": {
