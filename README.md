@@ -14,7 +14,7 @@ This is a fork of [express-edge](https://github.com/ecrmnn/express-edge) with pu
 ## Installation
 
 ```bash
-npm install express-edge --save
+npm install @paroi/express-edge
 ```
 
 ## Usage
@@ -24,7 +24,7 @@ See the [Edge documentation](http://edge.adonisjs.com/) for how to structure you
 ```javascript
 const express = require('express');
 const app = express();
-const { engine } = require('express-edge');
+const { engine } = require('@paroi/express-edge');
 
 // Automatically sets view engine and adds dot notation to app.render
 app.use(engine);
